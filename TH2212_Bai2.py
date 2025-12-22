@@ -1,7 +1,5 @@
 
 import math
-
-
 a=float(input("nhap a: "))
 b=float(input("nhap b: "))
 c=float(input("nhap c: "))
